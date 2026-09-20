@@ -1,38 +1,38 @@
-<h1 align="center">Hi 👋, I'm Darpan Mehta</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • AI/ML Enthusiast • Competitive Programmer
-</h3>
+# Hi 👋, I'm Darpan Mehta
 
-<p align="center">
-  <a href="https://linkedin.com/in/darpan-mehta-474715256">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/younome71">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/younome71">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/younome72">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
-  </a>
-  <a href="mailto:mehtadarpans2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+### Software Engineer · Backend & Full-Stack Developer · AI/ML Enthusiast
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=younome71&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/younome71?label=Followers&style=flat" alt="GitHub Followers" />
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/darpan-mehta-474715256">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mehtadarpans2004@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/younome71">GitHub</a>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering from **IIITDM Jabalpur**
-- 💻 Interested in **Software Engineering, Backend Systems & AI/ML**
-- 🤖 Exploring **LLMs, Computer Vision, RAG & AI-powered applications**
-- 🧠 **CodeChef 3★** and **Codeforces Specialist**
-- 🏆 **Meta Hacker Cup 2024 — Rank 2011 / 44,000+ participants**
-- 🚀 I enjoy building products from idea → backend → deployment
-- 📫 Reach me at **mehtadarpans2004@gmail.com**
+I'm a **Computer Science graduate from IIITDM Jabalpur** who enjoys building software at the intersection of **backend engineering, full-stack development, AI/ML, and problem solving**.
+
+I like working on systems that go beyond simple CRUD applications — from real-time communication and large institutional platforms to AI-powered search and data-driven applications.
+
+- 🎓 **B.Tech in Computer Science & Engineering** — IIITDM Jabalpur
+- 💼 **Software Engineering Intern — Myntra** · 1 year across 7th & 8th semesters
+- 🧠 Interested in **Backend Engineering, Distributed Systems, AI/ML & LLM applications**
+- ⚡ Competitive Programmer — **CodeChef 3★** · **Codeforces Specialist**
+- 🏆 **Meta Hacker Cup 2024** — Rank **2011 / 44,000+**
+- 🌱 Exploring better ways to build **scalable backend systems and AI-powered products**
 
 ---
 
@@ -41,92 +41,224 @@ Software Engineer • AI/ML Enthusiast • Competitive Programmer
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript" />
 </p>
 
-### Frontend & Backend
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,mongodb,mysql,postgres,redis" />
 </p>
 
-### AI / ML
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
-### Databases & Tools
+### AI / ML & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,docker,linux" />
 </p>
+
+**Also worked with:**  
+`FAISS` · `FashionCLIP` · `DINOv2` · `LLM Agents` · `Gemini` · `LangChain` · `Streamlit` · `Pandas` · `NumPy`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔎 Visual Product Search
+<table>
+<tr>
 
-AI-powered visual search system using **FashionCLIP, FAISS & DINOv2**.
+<td width="50%" valign="top">
 
-- Built a 512-dimensional image embedding pipeline
-- Indexed 1000+ fashion catalogue images using FAISS
-- Implemented visual reranking using DINOv2
-- Evaluated retrieval quality across multiple queries
+### 📈 Portfolio Tracker
 
-### 🚕 BeeQuick
+A full-stack portfolio management application for tracking investments, holdings and market data.
 
-Full-stack bike taxi platform built with **React, Tailwind, Node.js, Express & MongoDB**.
+**Highlights**
 
-- Designed REST APIs and backend architecture
-- Implemented authentication and database models
-- Built responsive frontend interfaces
-- Migrated backend persistence from MySQL to MongoDB
+- Portfolio & holdings management
+- Live market price tracking
+- Historical price data
+- Portfolio-level analytics
+- Full-stack architecture
 
-### 📈 Stock Market Analytics
+**Stack:**  
+`Next.js` · `React` · `Node.js` · `MongoDB` · `APIs`
 
-Python-based market analysis and prediction project using **TensorFlow, Keras, Pandas & yfinance**.
+<br>
 
-- Historical market data analysis
-- CNN-based feature extraction
-- Interactive data visualization and analysis
+<a href="https://github.com/younome71/portfolio-tracker">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏛️ Fusion IIIT
+
+A large-scale institutional platform developed for **IIITDM Jabalpur**, covering multiple academic and administrative workflows.
+
+**Highlights**
+
+- Academic management
+- Placement & student workflows
+- Finance and accounting
+- Mess & gymkhana management
+- Complaint & file tracking
+- Notifications and administrative modules
+
+**Stack:**  
+`Django` · `Django REST Framework` · `PostgreSQL` · `Celery` · `Docker`
+
+<br>
+
+<a href="https://github.com/younome71/Fusion">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚕 Bee-Quick
+
+A full-stack bike-taxi platform designed around ride discovery, booking and location-based services.
+
+**Highlights**
+
+- Ride booking workflow
+- Location selection
+- User-facing booking interface
+- Backend APIs
+- Database-backed ride management
+
+**Stack:**  
+`React` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB`
+
+<br>
+
+<a href="https://github.com/younome71/Bee-Quick">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👗 Saree Search Engine
+
+An AI-powered visual search system for finding visually similar sarees from a fashion catalogue.
+
+**Highlights**
+
+- Image-based product search
+- Natural-language queries
+- FashionCLIP embeddings
+- FAISS vector similarity search
+- Gemini-powered tool-calling agent
+- Product similarity scoring
+- Streamlit deployment
+
+**Stack:**  
+`Python` · `FashionCLIP` · `FAISS` · `Gemini` · `Streamlit`
+
+<br>
+
+<a href="https://github.com/younome71/saree-search-engine">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://saree-search-engine.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧠 Competitive Programming
+# 🧩 Competitive Programming
 
-<p align="center">
-  <a href="https://codeforces.com/profile/younome71">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=younome71" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>CodeChef — 3★</b> &nbsp; • &nbsp;
-  <b>Codeforces — Specialist</b>
-</p>
+| Platform | Achievement |
+| :---: | :---: |
+| 🟡 **CodeChef** | **3★** |
+| 🔵 **Codeforces** | **Specialist** |
+| 🏆 **Meta Hacker Cup 2024** | **Rank 2011 / 44,000+** |
+| 🧠 **IOQM 2020** | **Top 300 — Gujarat** |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younome71&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younome71&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=younome71&theme=transparent&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 💼 Experience
 
-<p align="left">
-  <a href="https://linkedin.com/in/darpan-mehta-474715256">LinkedIn</a> •
-  <a href="https://github.com/younome71">GitHub</a> •
-  <a href="https://codeforces.com/profile/younome71">Codeforces</a> •
-  <a href="https://www.codechef.com/users/younome72">CodeChef</a>
+### Software Engineering Intern — Myntra
+
+**1 Year · 7th & 8th Semester**
+
+Worked as a software engineering intern on production engineering systems, gaining hands-on experience with large-scale software development and industry engineering practices.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=younome71&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younome71&layout=compact&hide_border=true&langs_count=8" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=younome71&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **software engineering, backend systems, AI/ML, competitive programming, and interesting ideas worth building.**
+
+<p align="center">
+
+<a href="https://linkedin.com/in/darpan-mehta-474715256">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mehtadarpans2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/younome71">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/younome72">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
 </p>
+
+<div align="center">
+
+### *Build. Break. Learn. Repeat.*
+
+</div>
